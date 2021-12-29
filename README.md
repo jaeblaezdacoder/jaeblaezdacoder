@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Docker, Kubernetes, and cloud administration in preparation for new services coming on line in the future.
 - 💞️ I’m not looking to collaborate on anything currently. I still feel like I have a long ways to go. 
 - 📫 How to reach me ...
+---
+:rotating_light: 
 
 <!---
 jaeblaezdacoder/jaeblaezdacoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
