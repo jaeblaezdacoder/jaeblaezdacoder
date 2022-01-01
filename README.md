@@ -4,7 +4,7 @@
 - 💞️ I’m not looking to collaborate on anything currently. I still feel like I have a long ways to go. 
 - 📫 How to reach me ...
 ---
-:rotating_light: 
+:rotating_light: I officially have my development environment setup on my :computer: before the end of the year:exclamation::exclamation: :fireworks: :sparkler: :tada: :boom:
 
 <!---
 jaeblaezdacoder/jaeblaezdacoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
